@@ -1,27 +1,20 @@
-# 🔥 The API Smith — Monorepo
+# api-monorepo
 
-**One repo to rule the API forging empire.**
+The API Smith — Monorepo of all API forging projects: quest, pulse, smith, dragon, dojo.
 
-## 🏛️ Projects inside:
+One repository containing all the API forging tools in one place. Explore the collection and find the tool you need.
 
-| Folder | Project | Purpose |
-|---|---|---|
-| `the-api-smith/` | The API Smith | Main forge: quest + pulse + smith |
-| `api-quest-forge/` | Quest Forge | Generate quests from API |
-| `neon-pulse/` | Neon Pulse | Monitor API health |
-| `pixel-smith/` | Pixel Smith | Smith data into reports |
-| `api-dragon/` | API Dragon | Slay the dragon with Python |
-| `code-dojo/` | Code Dojo | Daily coding quests |
+## Projects inside
 
-## 🚀 Run all:
+- `the-api-smith` — Main forge
+- `api-quest-forge` — Quest generator
+- `neon-pulse` — API monitor
+- `pixel-smith` — Data smith
+- `api-dragon` — Dragon slayer
+- `code-dojo` — Daily dojo
+
+## Quickstart
 
 ```bash
 python the-api-smith/forge_master.py
-python api-quest-forge/quest_forge.py
-python neon-pulse/pulse.py
-python pixel-smith/smith.py
-python api-dragon/dragon.py
-python code-dojo/dojo.py
 ```
-
-## ⭐ Built by The API Smith
